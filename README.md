@@ -6,6 +6,8 @@ Design a model that predicts the likelihood of a patient having a medical condit
 
 •Integration:
 
-o Perform data preprocessing (handle missing values, normalize numeric data).
-o Apply SVM and Decision Tree for classification.
-o Compare both models’ results and discuss overfitting and accuracy trade-offs.
+1. Perform data preprocessing (handle missing values, normalize numeric data).
+
+2. Apply SVM and Decision Tree for classification.
+
+3. Compare both models’ results and discuss overfitting and accuracy trade-offs.
